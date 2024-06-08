@@ -131,3 +131,49 @@ html{
     display: flex;
     justify-content: space-between;
 }
+
+/* ABOUT */
+
+.about-us{
+    background-color: #1f1e1f;
+    width: 100%;
+    padding-bottom: 5rem;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-us .kitchen-img img{
+    width: 400px;
+    height: 400px;
+    /* object-fit: cover; */
+    margin-top: 10rem;
+    margin-left: 10rem;
+    border: 2px solid rgb(155, 155, 155);
+}
+
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+
+.content-about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.content-about h2{
+    font-size: 6rem;
+    margin-bottom: 1rem;
+}
+
+.content-about p{
+    width: 600px;
+    font-size: 1.8rem;
+}
+
+/* MENU */
+
